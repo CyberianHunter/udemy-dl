@@ -4,8 +4,8 @@
 
 """
 
-Author  : Nasir Khan (r0ot h3x49)
-Github  : https://github.com/r0oth3x49
+Author  : Cyberian Hunter
+Github  : https://github.com/CyberianHunter
 License : MIT
 
 
